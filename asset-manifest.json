@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-role-auth-app/static/css/main.79d19d76.css",
+    "main.js": "/react-role-auth-app/static/js/main.9384e7f7.js",
+    "static/js/453.a5160550.chunk.js": "/react-role-auth-app/static/js/453.a5160550.chunk.js",
+    "index.html": "/react-role-auth-app/index.html",
+    "main.79d19d76.css.map": "/react-role-auth-app/static/css/main.79d19d76.css.map",
+    "main.9384e7f7.js.map": "/react-role-auth-app/static/js/main.9384e7f7.js.map",
+    "453.a5160550.chunk.js.map": "/react-role-auth-app/static/js/453.a5160550.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79d19d76.css",
+    "static/js/main.9384e7f7.js"
+  ]
+}
